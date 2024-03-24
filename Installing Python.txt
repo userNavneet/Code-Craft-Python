@@ -1,0 +1,79 @@
+Installing Python:
+
+
+Download Python:
+Go to the official Python website at https://www.python.org/. On the homepage, you'll see a prominent button to download Python. Click on it.
+
+Choose Version:
+You'll be presented with different versions of Python. For beginners, it's recommended to download the latest stable version. As of my last update, it would be Python 3.x (e.g., Python 3.10).
+
+Download Installer:
+After selecting the version, you'll be directed to a page with various installers for different operating systems. Choose the appropriate installer for your operating system (Windows, macOS, or Linux) and system architecture (32-bit or 64-bit).
+
+Run Installer:
+Once the installer is downloaded, run it. Follow the installation wizard instructions. Make sure to check the box that says "Add Python to PATH" during installation. This ensures that Python is added to your system PATH, making it easier to run Python programs from the command line.
+
+Verify Installation:
+After the installation is complete, you can verify that Python is installed correctly by opening a command prompt (Windows) or terminal (macOS/Linux) and typing python --version or python3 --version. You should see the version number of the Python interpreter you installed.
+
+Setting up PyCharm IDE:
+PyCharm is a popular Integrated Development Environment (IDE) for Python. Here's how you can set it up:
+
+Download PyCharm:
+Go to the JetBrains website at https://www.jetbrains.com/pycharm/download/. There, you'll find the Community (free) and Professional versions of PyCharm. Choose the version you prefer and download it.
+
+Install PyCharm:
+Run the downloaded installer and follow the installation instructions. PyCharm usually provides a simple installation wizard that guides you through the process.
+
+Launch PyCharm:
+Once PyCharm is installed, you can launch it from the Start menu (Windows) or the Applications folder (macOS). On Linux, you can usually launch it from the application menu or by running the pycharm command in the terminal.
+
+Set up a New Project:
+When you first launch PyCharm, you'll be prompted to create a new project or open an existing one. Choose "Create New Project" and follow the prompts to set up your project.
+
+Configure Python Interpreter:
+PyCharm needs to know which Python interpreter to use for your project. If you installed Python correctly and added it to your system PATH, PyCharm should detect it automatically. Otherwise, you may need to manually configure the Python interpreter in PyCharm's settings.
+
+Start Coding:
+Once your project is set up and configured, you can start writing Python code in PyCharm. Create new Python files, write your code, and run it directly from PyCharm.
+
+That's it! You're now ready to start programming in Python using PyCharm. If you have any further questions or run into any issues during the installation or setup process, feel free to ask!
+
+
+
+
+
+
+What is Python?
+
+
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+It is used for:
+•	web development (server-side),
+•	software development,
+•	mathematics,
+•	system scripting.
+What can Python do?
+•	Python can be used on a server to create web applications.
+•	Python can be used alongside software to create workflows.
+•	Python can connect to database systems. It can also read and modify files.
+•	Python can be used to handle big data and perform complex mathematics.
+•	Python can be used for rapid prototyping, or for production-ready software development.
+Why Python?
+•	Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+•	Python has a simple syntax similar to the English language.
+•	Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+•	Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+•	Python can be treated in a procedural way, an object-oriented way or a functional way.
+Good to know
+•	The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
+•	In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
+Python Syntax compared to other programming languages
+•	Python was designed for readability, and has some similarities to the English language with influence from mathematics.
+•	Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
+•	Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+example 
+
+
+print("Hello, World!")
