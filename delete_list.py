@@ -2,7 +2,7 @@
 L = [10, 20, 30]
 
 # Print the initial list
-print("Initial List:", L)
+print("The Initial List:", L)
 
 # Delete the list
 del L
