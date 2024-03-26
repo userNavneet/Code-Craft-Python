@@ -16,4 +16,4 @@ def fibonacci(limit):
 limit = int(input("Enter the limit for Fibonacci sequence: "))
 
 # Call the fibonacci function and print the result
-print("Fibonacci sequence up to", limit, ":", fibonacci(limit))
+print("Fibonacci sequence up to ", limit, ":", fibonacci(limit))
