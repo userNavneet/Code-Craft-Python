@@ -11,7 +11,7 @@ def bubble_sort(arr):
 # Get user input for the array
 n = int(input("Enter the number of elements in the array: "))
 arr = []
-print("Enter the elements of the array:")
+print("Enter the elements of array:")
 for _ in range(n):
     arr.append(int(input()))
 
