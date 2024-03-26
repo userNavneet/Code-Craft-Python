@@ -16,14 +16,14 @@ def binary_search(arr, x):
     return -1
 
 # Get user input for the array
-n = int(input("Enter the number of elements in the array: "))
+n = int(input("Enter the number of elements in array: "))
 arr = []
-print("Enter the elements of the sorted array:")
+print("Enter the elements of sorted array:")
 for _ in range(n):
     arr.append(int(input()))
 
 # Get user input for the element to search
-x = int(input("Enter the element to search: "))
+x = int(input("Enter the element you want to search: "))
 
 # Perform binary search
 result = binary_search(arr, x)
