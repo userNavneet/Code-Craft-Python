@@ -25,5 +25,5 @@ def print_n_primes(n):
 n = int(input("Enter the value of 'n': "))
 
 # Print the first 'n' prime numbers
-print("The first", n, "prime numbers are:")
+print("The First", n, "Prime Numbers are:")
 print_n_primes(n)
