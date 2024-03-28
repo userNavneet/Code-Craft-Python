@@ -5,4 +5,4 @@ while True:
     if len(usrInput) == 1:
         print("The ASCII value of '" + usrInput + "' is", ord(usrInput))
         break
-    print("Please enter a single character to continue\n")
+    print("Please enter a single character to continue. Ex: k\n")
