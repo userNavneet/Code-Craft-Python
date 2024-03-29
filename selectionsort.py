@@ -8,9 +8,9 @@ def selection_sort(arr):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
 
 # Get user input for the array
-n = int(input("Enter the number of elements in the array: "))
+n = int(input("Enter number of elements in the array: "))
 arr = []
-print("Enter the elements of the array:")
+print("Enter the elements of array:")
 for _ in range(n):
     arr.append(int(input()))
 
