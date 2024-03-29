@@ -23,4 +23,4 @@ numbers_list = [int(num) for num in numbers_list]
 unique_numbers = remove_duplicates(numbers_list)
 
 # Print the list with duplicates removed
-print("List with duplicates removed:", unique_numbers)
+print("List with duplicate numbers removed:", unique_numbers)
