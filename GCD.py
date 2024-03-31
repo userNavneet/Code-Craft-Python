@@ -4,8 +4,8 @@ def gcd(a, b):
     return a
 
 # Get user input for the two numbers
-num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the second number: "))
+num1 = int(input("Enter the first integer: "))
+num2 = int(input("Enter the second integer: "))
 
 # Calculate the GCD
 result = gcd(num1, num2)
