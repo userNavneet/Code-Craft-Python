@@ -18,7 +18,7 @@ else:
     division = "Cannot divide by zero"
 
 # Print the results
-print("Addition:", addition)
-print("Subtraction:", subtraction)
-print("Multiplication:", multiplication)
-print("Division:", division)
+print("Addition of given numbers:", addition)
+print("Subtraction of given numbers:", subtraction)
+print("Multiplication of given numbers:", multiplication)
+print("Division of given numbers:", division)
