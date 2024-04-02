@@ -18,7 +18,7 @@ def binary_search(arr, x):
 # Get user input for the array
 n = int(input("Enter the number of elements in array: "))
 arr = []
-print("Enter the elements of sorted array:")
+print("Enter the elements of sorted array: ")
 for _ in range(n):
     arr.append(int(input()))
 
@@ -30,6 +30,6 @@ result = binary_search(arr, x)
 
 # Print the result
 if result != -1:
-    print("Element is present at index", result)
+    print("Element is present at index no: ", result)
 else:
     print("Element is not present in array")
