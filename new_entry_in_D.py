@@ -2,7 +2,7 @@
 D = {'Name': 'Allan', 'Age': '27', '5': '12345'}
 
 # Insert a new entry
-D['NewEntry'] = 'NewValue'
+D['Gender'] = 'Male'
 
 # Print the updated dictionary
 print(D)
