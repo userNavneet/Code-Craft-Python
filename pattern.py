@@ -5,4 +5,3 @@ def print_pattern(rows):
         print()
 rows = int(input("Enter the number of rows for the pattern: "))
 print_pattern(rows)
-   
