@@ -1,7 +1,7 @@
-brand = 'Mercedes Benz'
-model = 'GLE 53 Coupe'
-#concatenating two strings by using formatted strings
-message = f'{brand}[{model}] is a great car'
-
-# message = brand + '[' + model + '] is a great car'
-print(message) 
+#string methods
+car_name = 'Mercedes Benz GLE 53'
+print(len(car_name))
+print(car_name.upper())
+print(car_name.lower())
+print(car_name.replace('GLE','GLC'))
+print(car_name.find('53'))
