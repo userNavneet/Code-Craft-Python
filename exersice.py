@@ -1,9 +1,13 @@
-#string methods
-car_name = 'Mercedes Benz GLE 53'
-print(len(car_name))
-print(car_name.upper())
-print(car_name.lower())
-print(car_name.replace('GLE','GLC'))
-print(car_name.find('53'))
-print(car_name.title())
-print('Mercedes' in car_name)
+# # Arithmetic operators 
+a = int(input("enter a number A: "))
+b = int(input("enter the exponential of A: "))
+p = a ** b
+print(a,"to the power of", b, "is: ", p)
+q = a / b
+print(a, "divided by ",b, 'is: ', q)
+y = a % b
+print(a, 'modulus', b, 'is:', y)
+
+# precedence of arithmetic operators
+z = (a + b) -  5 * 2
+print(z)
