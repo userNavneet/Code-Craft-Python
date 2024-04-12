@@ -1,4 +1,4 @@
-# # Arithmetic operators 
+# Arithmetic operators 
 a = int(input("enter a number A: "))
 b = int(input("enter the exponential of A: "))
 p = a ** b
